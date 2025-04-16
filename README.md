@@ -13,3 +13,7 @@ Streamline your DarkRP base-building with ease! The **One Way Tool** is designed
 - **🏗️ Effortless Base Creation**: No more switching tools—just easy, fast, and professional results.
 
 **Upgrade your base-building today and start dominating the DarkRP scene with One Way!**
+
+**Server used on**
+**Name: -TBRP- DarkRP|FastDL|Purge|Printers|XP|Wire|**
+**IP: 45.62.160.69:27847**
