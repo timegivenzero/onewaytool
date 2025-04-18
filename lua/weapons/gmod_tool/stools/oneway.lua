@@ -1,7 +1,7 @@
 TOOL.Category = "Render"
 TOOL.Name = "#tool.oneway.name"
 TOOL.ClientConVar[ "channel" ] = 1
-
+-- Author WiFi
 if CLIENT then
     language.Add("tool.oneway.name", "One Way")
     language.Add("tool.oneway.desc", "One Way material")
@@ -21,7 +21,7 @@ function TOOL:LeftClick(trace)
     if IsValid(ent1.AttachedEntity) then ent1 = ent1.AttachedEntity end
 
     -- Apply transparent overlay material directly
-    ent1:SetMaterial("vgui/screens/vgui_overlay")
+    ent1:SetMaterial("oneway/oneway")
     ent1:SetColor(Color(0, 0, 0, 1))
     ent1:SetRenderMode(RENDERMODE_TRANSALPHA)
 
